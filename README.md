@@ -1,2 +1,2 @@
 # calculadora
-Estudo jts
+Estudo js
